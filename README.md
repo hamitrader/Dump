@@ -16,3 +16,13 @@ cd Dump
 git pull 
 python Run.py
 ```
+# Crypto And Forex Trading
+```
+If u Learn Crypto And Forex Trading  So Join My Group
+We are Provided Daily Premium signals Free
+Learn And Earn
+```
+# Contact
+```
++9203189016567
+```
