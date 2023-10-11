@@ -1,11 +1,12 @@
-import os,platform
-print(f'\x1b[1;92m[√] PLEASE WAIT CHECKING UPDATE...')
+import os, platform
+try:
+    import requests
+except:
+    os.system('pip install requests')
 os.system('git pull')
-os.system("pip uninstall urllib3 requests chardet idna certifi -y");os.system("pip install urllib3 requests chardet idna certifi")
-os.system("clear")
-print('\033[1;32m [•] JOIN ONLY TRADING WhATSAP GROUP')
-os.system('xdg-open https://chat.whatsapp.com/GsR7eXGFlrjIfQiBcc8dc7')
-os.system("clear")
+print('\033[1;32m [•] Join Facebook Group')
+os.system('xdg-open https://facebook.com/groups/240526195427860/')
+import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
     from Dump import HAMI
